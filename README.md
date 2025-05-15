@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arijal0/AnkitRijal](https://github.com/arijal0/AnkitRijal)
+- 👨‍💻 All of my projects are available at [https://github.com/arijal0/AnkitRijal](https://github.com/arijal0?tab=repositories)
 
 - 📫 How to reach me **ankitrijal432@gmail.com**
 
