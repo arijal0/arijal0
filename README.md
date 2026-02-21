@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Rijal</h1>
-<h3 align="center">A Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **Langchain**
 
